@@ -32,3 +32,10 @@ Clone the repository:
 git clone https://github.com/yourusername/ai-utils-toolkit.git
 python text_cleaner.py
 python text_to_speech.py "Hello! This is an AI utility."
+## Why this repository exists
+
+This repository documents my hands-on journey toward becoming an AI Engineer.
+It includes practical experiments, notes, and small utilities created while
+learning modern AI tools and workflows.
+
+The goal is continuous learning through real code and real commits.
