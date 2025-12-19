@@ -15,3 +15,10 @@ if __name__ == "__main__":
     print("Before:", sample)
     print("After:", clean_text(sample))
 # This is a simple text cleaner utility
+try:
+    # Main logic of the script
+    process_data()
+except ValueError as e:
+    print(f"ValueError encountered: {e}")
+except Exception as e:
+    print(f"An unexpected error occurred: {e}")
