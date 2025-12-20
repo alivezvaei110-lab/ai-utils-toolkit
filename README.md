@@ -39,3 +39,4 @@ It includes practical experiments, notes, and small utilities created while
 learning modern AI tools and workflows.
 
 The goal is continuous learning through real code and real commits.
+> This project is under active development and continuous improvement.
