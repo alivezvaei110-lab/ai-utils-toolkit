@@ -40,3 +40,8 @@ learning modern AI tools and workflows.
 
 The goal is continuous learning through real code and real commits.
 > This project is under active development and continuous improvement.
+## Notes
+
+This project is under active development.
+Small documentation improvements and clarifications are continuously added
+to make the usage clearer for new users.
