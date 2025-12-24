@@ -45,3 +45,4 @@ The goal is continuous learning through real code and real commits.
 This project is under active development.
 Small documentation improvements and clarifications are continuously added
 to make the usage clearer for new users.
+> Contributions and suggestions are welcome.
